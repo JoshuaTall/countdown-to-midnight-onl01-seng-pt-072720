@@ -7,8 +7,9 @@ end
 
 def countdown(midnight)
   while midnight > 0
-    midnight -= 1  
     puts "#{midnight}SECOND(S)!"
+    midnight -= 1
+    sleep(1)
     end
   if midnight == 0
     return "HAPPY NEW YEAR!"
