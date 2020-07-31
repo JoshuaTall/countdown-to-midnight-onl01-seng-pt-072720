@@ -6,6 +6,7 @@ end
   
 def countdown(midnight)
   while midnight > 0
+    midnight -= 10
     puts 
   
 end
