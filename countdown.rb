@@ -1,8 +1,8 @@
 def countdown
-  x = 5
-  while x < 5
+  x =10
+  while x < 11
     puts "#{x} SECONDS!"
-    x -= 5
+    x -= 10
   end
 end
 
