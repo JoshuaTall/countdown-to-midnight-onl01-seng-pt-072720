@@ -1,4 +1,4 @@
-def countdown
+def countdown_with_sleep
   x = 10
   while x < 11
     puts "#{x} SECONDS!"
