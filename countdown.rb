@@ -1,5 +1,5 @@
 
-
+midnight = 10
 def countdown(midnight)
   while midnight > 0
     puts "#{midnight}SECOND(S)!"
