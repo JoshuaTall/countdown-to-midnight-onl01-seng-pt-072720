@@ -6,7 +6,7 @@ end
   
 def countdown(midnight)
   while midnight > 0
-    midnight -= 10
     puts "#{midnight} SECOND(S)!"
+    midnight -= 10
   end
 end
