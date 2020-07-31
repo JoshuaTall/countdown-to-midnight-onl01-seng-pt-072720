@@ -4,8 +4,10 @@ def countdown
     countdown -= 10
     puts "#{x} SECOND(S)!"
     end
-  puts "HAPPY NEW YEAR!"
-  end
+    puts "HAPPY NEW YEAR"
+    
+
+  
 end
 
 #def countdown
