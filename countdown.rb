@@ -10,6 +10,6 @@ def countdown(midnight)
     midnight -= 10
   end
   if midnight == 0
-    puts "HAPPY NEW YEAR!"
+    return "HAPPY NEW YEAR!"
   end
 end
