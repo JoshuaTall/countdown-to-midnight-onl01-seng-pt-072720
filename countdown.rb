@@ -5,6 +5,6 @@ def countdown_with_sleep(midnight)
 end
   
 def countdown(midnight)
-  while 
+  while midnight > 10
   
 end
