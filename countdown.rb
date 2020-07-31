@@ -1,5 +1,7 @@
 
 midnight = 10
+
+
 def countdown(midnight)
   while midnight > 0
     puts "#{midnight}SECOND(S)!"
@@ -11,6 +13,3 @@ def countdown(midnight)
 end
 
 
-def countdown_with_sleep(midnight)
-  sleep(5)
-end
