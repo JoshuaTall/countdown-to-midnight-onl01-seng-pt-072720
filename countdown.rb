@@ -10,3 +10,6 @@ def countdown(midnight)
 end
 
 
+def countdown_with_sleep(midnight)
+  sleep(5)
+end
