@@ -7,9 +7,6 @@ def countdown
   while countdown == 0
     puts "HAPPY NEW YEAR"
   end
-    
-
-  
 end
 
 #def countdown
