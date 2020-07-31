@@ -4,7 +4,7 @@ end
 
 def countdown(midnight)
   while midnight > 0
-    puts "#{midnight}SECOND(S)!"
+    puts "#{midnight} SECOND(S)!"
     midnight -= 1
     sleep(1)
     end
