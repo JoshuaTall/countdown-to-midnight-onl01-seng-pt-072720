@@ -9,4 +9,5 @@ def countdown(midnight)
     puts "#{midnight} SECOND(S)!"
     midnight -= 10
   end
+  if midnight == 0
 end
