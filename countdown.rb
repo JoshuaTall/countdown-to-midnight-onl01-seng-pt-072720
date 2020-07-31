@@ -4,7 +4,7 @@ def countdown
     puts "#{x} SECOND(S)!"
     x -= 10
   end
-  puts "Happy New Year!"
+  puts "HAPPY NEW YEAR!"
 end
 
 #def countdown
