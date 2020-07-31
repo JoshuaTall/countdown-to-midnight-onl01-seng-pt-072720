@@ -1,8 +1,9 @@
 seconds = 10
 
-def countdown_with_sleep(seconds_to_midnight)
+def countdown_with_sleep(seconds)
   sleep(5)
 end
   
-def countdown
+def countdown(seconds)
+  
 end
